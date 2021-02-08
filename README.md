@@ -10,6 +10,13 @@ Os ítens que serão avaliados individualmente são os seguintes:
 - A Matriz de Confusão do seu modelo de testes assim como o gráfico de precision e recall do seu modelo
 - Tendo em vista o resultado final o que você faria para melhorar o modelo?
 
+# Results:
+
+[Challenge](https://nbviewer.jupyter.org/github/lbonini94/eleflow-test/blob/master/challenge.ipynb)
+[Data Visualization](https://nbviewer.jupyter.org/github/lbonini94/eleflow-test/blob/master/data_visualizing.ipynb)
+[Questions](https://github.com/lbonini94/eleflow-test/blob/master/questionario.md)
+
+
 ### Tendo em vista o resultado final o que você faria para melhorar o modelo?
 
 - Análise estatística mais profunda para encontrar melhores correlações
