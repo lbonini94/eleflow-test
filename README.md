@@ -13,7 +13,9 @@ Os ítens que serão avaliados individualmente são os seguintes:
 # Results:
 
 [Challenge](https://nbviewer.jupyter.org/github/lbonini94/eleflow-test/blob/master/challenge.ipynb)
+
 [Data Visualization](https://nbviewer.jupyter.org/github/lbonini94/eleflow-test/blob/master/data_visualizing.ipynb)
+
 [Questions](https://github.com/lbonini94/eleflow-test/blob/master/questionario.md)
 
 
